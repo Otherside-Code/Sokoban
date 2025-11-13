@@ -105,4 +105,4 @@ func _on_Proximo_pressed():
 
 
 func _on_Menu_pressed():
-	get_tree().change_scene("menu"); #mudar para cena menu
+	get_tree().change_scene("res://Scenes/Menu.tscn");
